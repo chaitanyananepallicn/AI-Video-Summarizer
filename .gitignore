@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+
+# Virtual Environment
+aivenv/
+
+# Streamlit folder
+.streamlit/
+
+audio
+
+static/
