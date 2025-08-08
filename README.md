@@ -8,7 +8,7 @@ An advanced web application built with Python and Streamlit that uses Google's G
 ## ## Live Application
 
 **You can access a live deployed demo here:**
-[**➡️ Live Video Summarizer App**](https://your-live-app-url.com) ***
+[**➡️ Live Video Summarizer App**](https://ai-video-summarizer-1-10mr.onrender.com) ***
 
 ## ## Features
 
@@ -44,7 +44,7 @@ Make sure you have Python 3.8+ and pip installed on your system.
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/your-username/gemini-video-summarizer.git](https://github.com/your-username/gemini-video-summarizer.git)
+    git clone https://github.com/chaitanyananepallicn/AI-Video-Summarizer.git
     cd gemini-video-summarizer
     ```
 
